@@ -1,0 +1,51 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+    width: 350px;
+  
+    line-height: 2;
+    
+   
+}
+
+
+button {
+
+background-color: #FF420E;
+color: white;
+font-size: 13px;
+font-weight: 600;
+letter-spacing: 0.8 px;
+text-transform: uppercase;
+border: none;
+width: 200px;
+height: 50px;
+margin-top: 20px;
+margin-bottom: 20px;
+outline: none;
+cursor: pointer;
+
+}
+
+
+
+#busket-container {
+
+    display: flex;
+    width: 800px;
+    flex-direction: column;
+}
+
+#busket-container p {
+
+margin-top: -120px;
+margin-bottom: 120px;
+}
+
+.btn {
+
+width:52px;
+border-radius: 50%;
+
+}
